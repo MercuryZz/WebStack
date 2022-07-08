@@ -1,2 +1,1 @@
-# hugo-webstack
- Hugo & WebStack
+# Hugo & WebStack

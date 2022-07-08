@@ -1,0 +1,111 @@
+---
+
+- taxonomy: 导航
+  icon: fa-compass
+  links: 
+    - title: SeeSeed
+      logo: https://api.iowen.cn/favicon/www.seeseed.com.png
+      url: https://www.seeseed.com/
+      description: 无穷尽设计可能
+    - title: 书享家
+      logo: https://api.iowen.cn/favicon/shuxiangjia.cn.png
+      url: http://shuxiangjia.cn/
+      description: 电子书下载导航
+    - title: HiPPTer
+      logo: https://api.iowen.cn/favicon/www.hippter.com.png
+      url: http://www.hippter.com/
+      description: PPT资源导航
+    - title: 24K
+      logo: https://www.24kdh.com/wp-content/uploads/2020/07/201910021570016173270585-3.ico
+      url: https://www.24kdh.com/
+      description: 全网优质网址 & 优质资源分享
+    - title: 龙轩
+      logo: https://api.iowen.cn/favicon/ilxdh.com.png
+      url: http://ilxdh.com/
+      description: 做个有用的导航
+    - title: JAY
+      logo: https://www.lovejay.top/wp-content/uploads/2022/05/80.png
+      url: https://www.lovejay.top/
+      description: JAY的资源库
+    - title: 炫猿
+      logo: https://api.iowen.cn/favicon/xydh.fun.png
+      url: https://xydh.fun/
+      description: 可定制化网址导航
+    - title: 产品经理
+      logo: https://api.iowen.cn/favicon/www.pmbaobao.com.png
+      url: https://www.pmbaobao.com/
+      description: 运营导航-互联网人必备网址导航
+    - title: 有趣网址之家
+      logo: https://api.iowen.cn/favicon/youquhome.com.png
+      url: https://youquhome.com/
+      description: 收藏全球最有趣的网站
+    - title: CXY521
+      logo: https://api.iowen.cn/favicon/www.cxy521.com.png
+      url: https://www.cxy521.com/
+      description: 程序员一站式导航
+    - title: 迷鹿
+      logo: https://api.iowen.cn/favicon/404l.com.png
+      url: https://404l.com/
+      description: 网站及资源汇集
+- taxonomy: 文档
+  icon: fa-book
+  links:
+    - title: Hugo
+      logo: https://api.iowen.cn/favicon/gohugo.io.png
+      url: https://gohugo.io/documentation/
+      description: The world’s fastest framework for building websites
+    - title: Hexo
+      logo: https://api.iowen.cn/favicon/hexo.io.png
+      url: https://hexo.io/zh-cn/docs/
+      description: 快速、简洁且高效的博客框架
+    - title: Gin
+      logo: https://api.iowen.cn/favicon/gin-gonic.com/zh-cn/docs.png
+      url: https://gin-gonic.com/zh-cn/docs/
+      description: 用Go编写的HTTP Web框架
+    - title: Beego
+      logo: https://beego.vip/static/img/favicon.png
+      url: https://beego.vip/docs/intro/
+      description: 最简单易用的企业级Go应用开发框架
+    - title: Go标准库
+      logo: https://studygolang.com/static/img/go.ico
+      url: https://studygolang.com/pkgdoc/
+      description: Golang标准库文档
+    - title: Docker
+      logo: https://docs.docker.com/favicons/docs@2x.ico
+      url: https://dockerdocs.cn/index.html
+      description: Docker中文
+    - title: Element Plus
+      logo: https://element-plus.gitee.io/images/element-plus-logo-small.svg
+      url: https://element-plus.gitee.io/zh-CN/
+      description: 基于 Vue 3，面向设计师和开发者的组件库
+    - title: MDN
+      logo: https://developer.mozilla.org/favicon-48x48.cbbd161b.png
+      url: https://developer.mozilla.org/zh-CN/docs/Web/
+      description: Mozilla Web开发文档
+- taxonomy: 软件
+  icon: fa-download
+  links:
+    - title: 吾爱破解
+      logo: https://www.52pojie.cn/favicon.ico
+      url: https://www.52pojie.cn/
+      description: 致力于软件安全与病毒分析的前沿
+    - title: 果核剥壳
+      logo: https://www.ghxi.com/favicon.ico
+      url: https://www.ghxi.com/
+      description: 守住互联网最后一片净土
+    - title: 小众软件
+      logo: https://img3.appinn.net/static/wp-content/uploads/Appinn-icon-32.jpg
+      url: https://www.appinn.com/
+      description: 分享免费、小巧、实用、有趣、绿色的软件
+    - title: 异次元软件世界
+      logo: https://api.iowen.cn/favicon/www.iplaysoft.com.png
+      url: https://www.iplaysoft.com/
+      description: 软件改变生活
+    - title: YR系统
+      logo: https://17110378.s21i.faiusr.com/5/ABUIABAFGAAg4cib5QUortWssAMwgAE4gAE.ico
+      url: https://www.yrxitong.com/
+      description: 专注系统重装封装
+    - title: 易破解
+      logo: https://www.ypojie.com/favicon.ico
+      url: https://www.ypojie.com/
+      description: 给你所需要的内容

@@ -1,0 +1,15 @@
+baseURL = "https://nav.cetacean.top/"
+languageCode = "zh-CN"
+title = "Hugo & WebStack"
+theme = "webstack"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "Mercury"
+  description = "Hugo & WebStack"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = true
